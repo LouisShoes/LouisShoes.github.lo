@@ -1,0 +1,22 @@
+.img-width-fix {
+  max-width: 100%;
+}
+
+.fa-facebook{
+	font-size: 30px;
+	color:blue;
+}
+
+.fa-instagram{
+	font-size: 30px;
+	color:red;
+}
+
+.fa-whatsapp{
+	font-size: 30px;
+	color: yellow;
+}
+
+body{
+	background-color: lightblue;
+}
